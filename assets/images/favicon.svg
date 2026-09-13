@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Caçamba estacionária simples sem contorno/sem fundo -->
+  <!-- Borda superior reforçada -->
+  <path d="M4 10C4 8.89543 4.89543 8 6 8H42C43.1046 8 44 8.89543 44 10V12C44 13.1046 43.1046 14 42 14H6C4.89543 14 4 13.1046 4 12V10Z" fill="#F59E0B"/>
+  <!-- Corpo principal da caçamba -->
+  <path d="M6 14L13 36H35L42 14H6Z" fill="#D97706"/>
+  <!-- Base de apoio / sapatas inferiores -->
+  <path d="M11 36H37V39C37 40.1046 36.1046 41 35 41H13C11.8954 41 11 40.1046 11 39V36Z" fill="#92400E"/>
+  <!-- Nervuras de reforço estrutural -->
+  <rect x="22.5" y="14" width="3" height="22" rx="0.5" fill="#B45309" opacity="0.6"/>
+  <rect x="15" y="14" width="2" height="22" rx="0.5" fill="#B45309" opacity="0.35"/>
+  <rect x="31" y="14" width="2" height="22" rx="0.5" fill="#B45309" opacity="0.35"/>
+  <!-- Pino central de içamento poliguindaste -->
+  <circle cx="24" cy="23" r="2.5" fill="#F59E0B"/>
+  <circle cx="24" cy="23" r="1.2" fill="#78350F"/>
+</svg>

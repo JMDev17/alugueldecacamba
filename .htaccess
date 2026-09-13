@@ -1,0 +1,28 @@
+# Redirecionamento 301 de arquivos .html para URLs limpas com barra final
+RewriteEngine On
+RewriteBase /
+
+# Força HTTPS (opcional dependendo do servidor)
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redireciona index.html para a raiz ou diretório limpo
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/
+RewriteRule ^index\.html$ / [R=301,L]
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /(.*)/index\.html\ HTTP/
+RewriteRule ^(.*)/index\.html$ /$1/ [R=301,L]
+
+# Redireciona qualquer requisição terminada em .html para URL limpa
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /(.*)\.html\ HTTP/
+RewriteRule ^(.*)\.html$ /$1/ [R=301,L]
+
+# Cache headers para performance
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType image/webp "access plus 6 months"
+  ExpiresByType image/jpeg "access plus 6 months"
+  ExpiresByType image/png "access plus 6 months"
+</IfModule>

@@ -1,0 +1,1560 @@
+{
+  "cities": [
+    {
+      "id": "sjc",
+      "slug": "",
+      "isHome": true,
+      "name": "São José dos Campos",
+      "state": "SP",
+      "shortName": "SJC",
+      "region": "Médio Vale",
+      "seoTitle": "Aluguel de Caçamba em São José dos Campos, SP | Orçamento Rápido",
+      "metaDescription": "Precisa de aluguel de caçamba em São José dos Campos? Solicite seu orçamento via WhatsApp para obras, reformas e limpezas. Atendimento nos principais bairros de SJC.",
+      "intro": "Procurando por aluguel de caçamba em São José dos Campos? Seja para reformas em condomínios, ampliações residenciais, obras comerciais ou remoção de entulhos de construção, intermediamos seu contato com prestadores da região para facilitar a coleta do seu material com segurança e praticidade.",
+      "localContext": "São José dos Campos é o maior polo econômico e urbano do Vale do Paraíba, com intensa movimentação na construção civil, reformas prediais na região central e oeste, além de constante expansão de condomínios residenciais fechados e centros comerciais. Por isso, a demanda por caçambas estacionárias exige atenção às normas locais de posicionamento e estacionamento em vias públicas.",
+      "neighborhoods": [
+        "Jardim Aquarius",
+        "Urbanova",
+        "Vila Ema",
+        "Jardim Satélite",
+        "Bosque dos Eucaliptos",
+        "Jardim das Indústrias",
+        "Vila Adyana",
+        "Santana",
+        "Vista Verde",
+        "Parque Industrial",
+        "Eugênio de Melo",
+        "Monte Castelo",
+        "Centro"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Jacareí",
+          "slug": "aluguel-de-cacamba-jacarei"
+        },
+        {
+          "name": "Caçapava",
+          "slug": "aluguel-de-cacamba-cacapava"
+        },
+        {
+          "name": "Taubaté",
+          "slug": "aluguel-de-cacamba-taubate"
+        },
+        {
+          "name": "Santa Branca",
+          "slug": "aluguel-de-cacamba-santa-branca"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba em bairros como Urbanova, Jardim Aquarius, Vila Ema, Jardim Satélite, Bosque dos Eucaliptos e outras regiões de São José dos Campos. Consulte disponibilidade para o seu endereço no momento do orçamento.",
+      "localFaq": [
+        {
+          "question": "Como solicitar orçamento de caçamba em São José dos Campos?",
+          "answer": "Basta clicar em um dos botões de WhatsApp e informar o bairro ou endereço em São José dos Campos, o tipo de material a ser descartado e a data desejada. O orçamento detalhado será enviado diretamente a você."
+        },
+        {
+          "question": "Onde a caçamba pode ser estacionada em SJC?",
+          "answer": "O posicionamento ideal é dentro da área interna do imóvel (como garagens ou recuos). Caso precise ficar na rua, o local deve seguir as regras de trânsito e sinalização vigentes no município, as quais serão orientadas no orçamento."
+        },
+        {
+          "question": "Qual o período de permanência da caçamba em São José dos Campos?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        }
+      ]
+    },
+    {
+      "id": "taubate",
+      "slug": "aluguel-de-cacamba-taubate",
+      "isHome": false,
+      "name": "Taubaté",
+      "state": "SP",
+      "shortName": "Taubaté",
+      "region": "Médio Vale",
+      "seoTitle": "Aluguel de Caçamba em Taubaté, SP | Solicite uma Caçamba",
+      "metaDescription": "Solicite orçamento de aluguel de caçamba em Taubaté, SP. Caçambas para entulho de obras, reformas e limpezas. Atendimento para diversos bairros da cidade.",
+      "intro": "Buscando aluguel de caçamba em Taubaté? Seja para reforma residencial, obras comerciais ou retirada de entulhos de construção, solicite sua cotação rápida pelo WhatsApp e consulte a disponibilidade de caçambas estacionárias para o seu endereço.",
+      "localContext": "Segundo maior polo populacional do Vale do Paraíba, Taubaté possui forte atividade industrial, comercial e expressivo desenvolvimento imobiliário, com obras tanto em bairros tradicionais quanto em novas áreas residenciais e condomínios próximos às rodovias Presidente Dutra e Carvalho Pinto.",
+      "neighborhoods": [
+        "Independência",
+        "Jardim das Nações",
+        "Quiririm",
+        "Bonfim",
+        "Jabuticabeiras",
+        "Vila São José",
+        "Parque Aeroporto",
+        "Barranco Alto",
+        "Mantiqueira",
+        "Centro",
+        "Belém"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Pindamonhangaba",
+          "slug": "aluguel-de-cacamba-pindamonhangaba"
+        },
+        {
+          "name": "Tremembé",
+          "slug": "aluguel-de-cacamba-tremembe"
+        },
+        {
+          "name": "Caçapava",
+          "slug": "aluguel-de-cacamba-cacapava"
+        },
+        {
+          "name": "São José dos Campos",
+          "slug": ""
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba em bairros como Independência, Jardim das Nações, Quiririm, Jabuticabeiras, Bonfim e demais setores de Taubaté. Consulte disponibilidade para sua rua ou condomínio.",
+      "localFaq": [
+        {
+          "question": "Como funciona o aluguel de caçamba em Taubaté?",
+          "answer": "Você solicita o orçamento informando o endereço da obra em Taubaté e o tipo de entulho. A empresa responsável confirma valores, capacidade da caçamba e combina a data de colocação e recolhimento."
+        },
+        {
+          "question": "Vocês atendem condomínios fechados em Taubaté e Quiririm?",
+          "answer": "Muitas empresas parceiras atendem condomínios da região. É importante verificar as regras internas do condomínio (horários permitidos de caminhão e dias de permanência) antes da entrega."
+        },
+        {
+          "question": "Qual o prazo de permanência da caçamba em Taubaté?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        }
+      ]
+    },
+    {
+      "id": "jacarei",
+      "slug": "aluguel-de-cacamba-jacarei",
+      "isHome": false,
+      "name": "Jacareí",
+      "state": "SP",
+      "shortName": "Jacareí",
+      "region": "Médio Vale",
+      "seoTitle": "Aluguel de Caçamba em Jacareí, SP | Cotação de Caçambas de Entulho",
+      "metaDescription": "Aluguel de caçamba de entulho em Jacareí, SP. Peça seu orçamento para reformas, construções e limpezas. Atendimento para diversos bairros da cidade.",
+      "intro": "Precisa de caçamba para retirar entulho em Jacareí? Encontre soluções práticas para descarte de resíduos de reformas, construções e limpezas residenciais ou comerciais. Solicite seu orçamento online sem burocracia.",
+      "localContext": "Estrategicamente posicionada entre São José dos Campos e a Grande São Paulo, Jacareí apresenta grande expansão de loteamentos, reformas em áreas industriais e obras residenciais contínuas, demandando serviços ágeis de destinação de resíduos da construção civil.",
+      "neighborhoods": [
+        "Villa Branca",
+        "Jardim Flórida",
+        "Parque Santo Antônio",
+        "Jardim Didinha",
+        "Cidade Salvador",
+        "Parque Meia Lua",
+        "Jardim Paraíso",
+        "São Silvestre",
+        "Centro",
+        "Jardim Santa Maria"
+      ],
+      "nearbyCities": [
+        {
+          "name": "São José dos Campos",
+          "slug": ""
+        },
+        {
+          "name": "Santa Branca",
+          "slug": "aluguel-de-cacamba-santa-branca"
+        },
+        {
+          "name": "Igaratá",
+          "slug": "aluguel-de-cacamba-igarata"
+        },
+        {
+          "name": "Caçapava",
+          "slug": "aluguel-de-cacamba-cacapava"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba em bairros como Villa Branca, Jardim Flórida, Parque Santo Antônio, Jardim Didinha, São Silvestre e outras regiões de Jacareí. Verifique a disponibilidade para o seu bairro ao cotar.",
+      "localFaq": [
+        {
+          "question": "Como pedir aluguel de caçamba no Villa Branca ou Jardim Flórida?",
+          "answer": "Basta nos chamar pelo WhatsApp informando a localização no Villa Branca, Jardim Flórida ou outro bairro de Jacareí, e o volume estimado de resíduos para receber as condições do serviço."
+        },
+        {
+          "question": "Posso colocar restos de demolição e alvenaria na caçamba?",
+          "answer": "Geralmente sim, concreto, tijolos, terra e pedriscos são os materiais mais comuns. Os detalhes exatos sobre tipos de resíduos são esclarecidos no momento do orçamento."
+        },
+        {
+          "question": "Qual o período de uso da caçamba em Jacareí?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        }
+      ]
+    },
+    {
+      "id": "pindamonhangaba",
+      "slug": "aluguel-de-cacamba-pindamonhangaba",
+      "isHome": false,
+      "name": "Pindamonhangaba",
+      "state": "SP",
+      "shortName": "Pinda",
+      "region": "Médio Vale",
+      "seoTitle": "Aluguel de Caçamba em Pindamonhangaba, SP | Solicite Orçamento",
+      "metaDescription": "Aluguel de caçambas em Pindamonhangaba, SP para entulho de reformas, construção civil e descarte de materiais. Consulte disponibilidade pelo WhatsApp.",
+      "intro": "Está fazendo obra ou reforma em Pindamonhangaba e precisa de caçamba de entulho? Solicite uma cotação rápida via WhatsApp e consulte a disponibilidade de caçambas estacionárias para o seu projeto no município.",
+      "localContext": "Com importante polo metalúrgico e expressiva área residencial, Pindamonhangaba tem ampla demanda por locação de caçambas em regiões como o distrito de Moreira César e bairros centrais e residenciais, atendendo desde pequenos reparos domésticos até obras industriais.",
+      "neighborhoods": [
+        "Moreira César",
+        "Santana",
+        "Boa Vista",
+        "Crispim",
+        "Jardim Regina",
+        "Mombaça",
+        "Alto do Cardoso",
+        "Feital",
+        "Araretama",
+        "Centro"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Taubaté",
+          "slug": "aluguel-de-cacamba-taubate"
+        },
+        {
+          "name": "Roseira",
+          "slug": "aluguel-de-cacamba-roseira"
+        },
+        {
+          "name": "Tremembé",
+          "slug": "aluguel-de-cacamba-tremembe"
+        },
+        {
+          "name": "Guaratinguetá",
+          "slug": "aluguel-de-cacamba-guaratingueta"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba em Moreira César, Santana, Boa Vista, Alto do Cardoso, Araretama e outros setores de Pindamonhangaba. Consulte a viabilidade para seu endereço.",
+      "localFaq": [
+        {
+          "question": "Atendem o distrito de Moreira César em Pinda?",
+          "answer": "Sim, Moreira César é uma das principais áreas com solicitação de caçambas na cidade. Ao enviar a mensagem, informe o endereço em Moreira César para confirmar a logística."
+        },
+        {
+          "question": "Quais materiais não podem ser jogados na caçamba?",
+          "answer": "Produtos inflamáveis, tintas líquidas, produtos químicos, solventes, baterias e lixo doméstico/hospitalar não são aceitos em caçambas comuns de entulho."
+        },
+        {
+          "question": "Qual é o tempo de permanência em Pindamonhangaba?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        }
+      ]
+    },
+    {
+      "id": "cacapava",
+      "slug": "aluguel-de-cacamba-cacapava",
+      "isHome": false,
+      "name": "Caçapava",
+      "state": "SP",
+      "shortName": "Caçapava",
+      "region": "Médio Vale",
+      "seoTitle": "Aluguel de Caçamba em Caçapava, SP | Cotação de Entulho",
+      "metaDescription": "Solicite aluguel de caçambas de entulho em Caçapava, SP. Atendimento para reformas, obras e limpezas. Consulte disponibilidade pelo WhatsApp.",
+      "intro": "Procurando aluguel de caçamba em Caçapava? Facilite a remoção de entulhos de reformas, ampliações e limpezas de terrenos. Solicite um orçamento diretamente pelo WhatsApp e confira a disponibilidade para o seu bairro.",
+      "localContext": "Localizada no coração do Vale do Paraíba, entre São José dos Campos e Taubaté, Caçapava possui constante crescimento residencial, além de chácaras e áreas industriais que demandam caçambas estacionárias para descarte organizado de materiais de construção.",
+      "neighborhoods": [
+        "Vera Cruz",
+        "Vila Menino Jesus",
+        "Jardim Maria Cândida",
+        "Parque Residencial Maria Elmira",
+        "Aldeias da Serra",
+        "Vila Santos",
+        "Residencial Esperança",
+        "Centro"
+      ],
+      "nearbyCities": [
+        {
+          "name": "São José dos Campos",
+          "slug": ""
+        },
+        {
+          "name": "Taubaté",
+          "slug": "aluguel-de-cacamba-taubate"
+        },
+        {
+          "name": "Jambeiro",
+          "slug": "aluguel-de-cacamba-jambeiro"
+        },
+        {
+          "name": "Tremembé",
+          "slug": "aluguel-de-cacamba-tremembe"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba em bairros como Vera Cruz, Vila Menino Jesus, Jardim Maria Cândida, Aldeias da Serra e demais localidades de Caçapava. Consulte a disponibilidade ao solicitar cotação.",
+      "localFaq": [
+        {
+          "question": "Como alugar caçamba em Caçapava?",
+          "answer": "Envie sua mensagem via WhatsApp indicando seu endereço em Caçapava e a finalidade (obra, limpeza ou reforma). O prestador informará valores e condições."
+        },
+        {
+          "question": "É possível colocar a caçamba em calçadas estreitas?",
+          "answer": "A caçamba deve ser alocada preferencialmente dentro da propriedade ou na via pública sem obstruir a passagem de pedestres ou garagens, respeitando as regras locais."
+        },
+        {
+          "question": "Quanto tempo posso ficar com a caçamba em Caçapava?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        }
+      ]
+    },
+    {
+      "id": "guaratingueta",
+      "slug": "aluguel-de-cacamba-guaratingueta",
+      "isHome": false,
+      "name": "Guaratinguetá",
+      "state": "SP",
+      "shortName": "Guará",
+      "region": "Fundo do Vale",
+      "seoTitle": "Aluguel de Caçamba em Guaratinguetá, SP | Orçamento sem Compromisso",
+      "metaDescription": "Aluguel de caçamba em Guaratinguetá, SP para obras, reformas e descarte de entulho. Peça seu orçamento rápido via WhatsApp.",
+      "intro": "Buscando aluguel de caçambas em Guaratinguetá? Obtenha opções práticas para retirar sobras de alvenaria, pisos e entulhos de reforma e construção civil em toda a cidade. Solicite um orçamento sem compromisso.",
+      "localContext": "Importante centro comercial, educacional e histórico do Fundo do Vale, Guaratinguetá abriga reformas em imóveis centrais, comércios e novas construções em bairros residenciais em expansão, exigindo soluções organizadas para descarte de resíduos inertes.",
+      "neighborhoods": [
+        "Pedregulho",
+        "Vila Paraíba",
+        "Beira Rio",
+        "Campo do Galvão",
+        "Parque das Árvores",
+        "Engenheiro Neiva",
+        "São Benedito",
+        "Centro"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Aparecida",
+          "slug": "aluguel-de-cacamba-aparecida"
+        },
+        {
+          "name": "Lorena",
+          "slug": "aluguel-de-cacamba-lorena"
+        },
+        {
+          "name": "Potim",
+          "slug": "aluguel-de-cacamba-potim"
+        },
+        {
+          "name": "Pindamonhangaba",
+          "slug": "aluguel-de-cacamba-pindamonhangaba"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba em bairros como Pedregulho, Vila Paraíba, Beira Rio, Campo do Galvão, Engenheiro Neiva e outras localidades de Guaratinguetá. Consulte disponibilidade.",
+      "localFaq": [
+        {
+          "question": "Como funciona o descarte de entulho em Guaratinguetá?",
+          "answer": "Ao alugar a caçamba, você deposita os materiais inertes da obra até a borda de segurança. Quando cheia ou no fim do prazo, a empresa recolhe e destina os resíduos conforme as diretrizes ambientais."
+        },
+        {
+          "question": "Qual o prazo de permanência da caçamba em Guaratinguetá?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Posso encher a caçamba acima do limite da borda?",
+          "answer": "Não. Por normas de segurança viária, o material não deve ultrapassar a borda superior para evitar quedas de detritos durante o transporte no caminhão."
+        }
+      ]
+    },
+    {
+      "id": "lorena",
+      "slug": "aluguel-de-cacamba-lorena",
+      "isHome": false,
+      "name": "Lorena",
+      "state": "SP",
+      "shortName": "Lorena",
+      "region": "Fundo do Vale",
+      "seoTitle": "Aluguel de Caçamba em Lorena, SP | Solicite sua Cotação",
+      "metaDescription": "Aluguel de caçamba de entulho em Lorena, SP. Solução para reformas, construções e limpezas residenciais ou comerciais. Orçamento rápido pelo WhatsApp.",
+      "intro": "Precisa alugar caçamba em Lorena para remover restos de obra ou reforma? Solicite uma cotação rápida via WhatsApp e consulte valores e disponibilidade para o seu bairro.",
+      "localContext": "Polo universitário e industrial da região leste do Vale do Paraíba, Lorena possui dinâmica constante de manutenção de imóveis, reformas comerciais e novas edificações, onde a caçamba estacionária é o método mais eficiente e limpo de organizar a obra.",
+      "neighborhoods": [
+        "Vila Geny",
+        "Olaria",
+        "Santo Antônio",
+        "Cruz Alta",
+        "Bandeirantes",
+        "Cabelinha",
+        "Cidade Industrial",
+        "Centro"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Guaratinguetá",
+          "slug": "aluguel-de-cacamba-guaratingueta"
+        },
+        {
+          "name": "Cachoeira Paulista",
+          "slug": "aluguel-de-cacamba-cachoeira-paulista"
+        },
+        {
+          "name": "Piquete",
+          "slug": "aluguel-de-cacamba-piquete"
+        },
+        {
+          "name": "Canas",
+          "slug": "aluguel-de-cacamba-canas"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba em bairros como Vila Geny, Olaria, Santo Antônio, Cruz Alta, Cabelinha e outros bairros de Lorena. Consulte a disponibilidade para o seu endereço.",
+      "localFaq": [
+        {
+          "question": "Como pedir orçamento de caçamba em Lorena?",
+          "answer": "Clique no botão de WhatsApp informando o local em Lorena onde precisa da caçamba e o tipo de serviço. Você receberá as opções e valores disponíveis."
+        },
+        {
+          "question": "Qual o tempo de permanência da caçamba em Lorena?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Como são calculados os preços do aluguel em Lorena?",
+          "answer": "Os valores dependem do modelo de caçamba, tipo de resíduo e localização da entrega, sendo detalhados no momento da solicitação."
+        }
+      ]
+    },
+    {
+      "id": "aparecida",
+      "slug": "aluguel-de-cacamba-aparecida",
+      "isHome": false,
+      "name": "Aparecida",
+      "state": "SP",
+      "shortName": "Aparecida",
+      "region": "Fundo do Vale",
+      "seoTitle": "Aluguel de Caçamba em Aparecida, SP | Solicite sua Caçamba",
+      "metaDescription": "Aluguel de caçamba em Aparecida, SP para descarte de entulho em reformas, pousadas e construções. Solicite orçamento rápido pelo WhatsApp.",
+      "intro": "Procurando aluguel de caçamba em Aparecida? Seja para reformas em hotéis, pousadas, residências ou ampliações comerciais no entorno do Santuário Nacional, encontre opções práticas para destinar resíduos da construção civil com segurança.",
+      "localContext": "Capital nacional da fé católica, Aparecida recebe milhões de peregrinos anualmente. Por isso, a execução de reformas em estabelecimentos de acolhimento, pousadas e imóveis residenciais exige atenção redobrada ao posicionamento de caçambas estacionárias nas vias centrais para não interferir no fluxo de fiéis e no trânsito urbano.",
+      "neighborhoods": [
+        "Ponte Alta",
+        "Itaguaçu",
+        "Santa Rita",
+        "Vila Mariana",
+        "São Geraldo",
+        "Jardim Paraíba",
+        "Aroeira",
+        "Centro"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Guaratinguetá",
+          "slug": "aluguel-de-cacamba-guaratingueta"
+        },
+        {
+          "name": "Potim",
+          "slug": "aluguel-de-cacamba-potim"
+        },
+        {
+          "name": "Roseira",
+          "slug": "aluguel-de-cacamba-roseira"
+        },
+        {
+          "name": "Lorena",
+          "slug": "aluguel-de-cacamba-lorena"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba em bairros como Ponte Alta, Itaguaçu, Santa Rita, Vila Mariana, Jardim Paraíba e demais regiões de Aparecida. Consulte viabilidade para seu local.",
+      "localFaq": [
+        {
+          "question": "Como alugar caçamba próximo ao Santuário ou região central de Aparecida?",
+          "answer": "Recomenda-se informar o endereço exato com antecedência pelo WhatsApp, especialmente para áreas com restrições de estacionamento e circulação em dias de romaria e fins de semana."
+        },
+        {
+          "question": "Atendem pousadas e hotéis em Aparecida?",
+          "answer": "Sim, há soluções indicadas para descarte de entulhos de reformas prediais e renovações de quartos e fachadas em meios de hospedagem."
+        },
+        {
+          "question": "Qual o prazo de permanência da caçamba em Aparecida?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        }
+      ]
+    },
+    {
+      "id": "cruzeiro",
+      "slug": "aluguel-de-cacamba-cruzeiro",
+      "isHome": false,
+      "name": "Cruzeiro",
+      "state": "SP",
+      "shortName": "Cruzeiro",
+      "region": "Fundo do Vale",
+      "seoTitle": "Aluguel de Caçamba em Cruzeiro, SP | Cotação de Caçambas de Entulho",
+      "metaDescription": "Precisa alugar caçamba de entulho em Cruzeiro, SP? Cotação rápida via WhatsApp para obras residenciais, galpões e reformas comerciais.",
+      "intro": "Buscando aluguel de caçamba em Cruzeiro? Encontre soluções adequadas para descarte de entulhos de reformas residenciais, manutenções em galpões industriais e melhorias comerciais em todos os bairros da cidade.",
+      "localContext": "Cruzeiro é polo regional do Fundo do Vale, situada no entroncamento histórico ferroviário com Minas Gerais e Rio de Janeiro. A cidade combina bairros residenciais tradicionais com áreas fabris e expansão em direção à serra, gerando demanda contínua por caçambas para descarte de restos de alvenaria e reformas prediais.",
+      "neighborhoods": [
+        "Vila Nova",
+        "Itagaçaba",
+        "Jardim América",
+        "Regina Célia",
+        "Pontilhão",
+        "Centro",
+        "Vila Brasil",
+        "Washington Pires"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Cachoeira Paulista",
+          "slug": "aluguel-de-cacamba-cachoeira-paulista"
+        },
+        {
+          "name": "Lorena",
+          "slug": "aluguel-de-cacamba-lorena"
+        },
+        {
+          "name": "Piquete",
+          "slug": "aluguel-de-cacamba-piquete"
+        },
+        {
+          "name": "Canas",
+          "slug": "aluguel-de-cacamba-canas"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba em bairros como Vila Nova, Itagaçaba, Jardim América, Regina Célia, Pontilhão e setores industriais de Cruzeiro. Verifique a logística no momento da cotação.",
+      "localFaq": [
+        {
+          "question": "Como funciona a entrega de caçambas em bairros de Cruzeiro?",
+          "answer": "O caminhão posiciona a caçamba no ponto acordado em frente à obra ou dentro do recuo do terreno, seguindo as regras de segurança locais."
+        },
+        {
+          "question": "Qual o prazo de uso da caçamba em Cruzeiro?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Posso descartar madeira e forro de gesso na caçamba em Cruzeiro?",
+          "answer": "Resíduos mistos de reformas como madeira e gesso costumam ser aceitos em condições específicas informadas no momento do orçamento."
+        }
+      ]
+    },
+    {
+      "id": "cachoeira-paulista",
+      "slug": "aluguel-de-cacamba-cachoeira-paulista",
+      "isHome": false,
+      "name": "Cachoeira Paulista",
+      "state": "SP",
+      "shortName": "Cachoeira",
+      "region": "Fundo do Vale",
+      "seoTitle": "Aluguel de Caçamba em Cachoeira Paulista, SP | Orçamento Rápido",
+      "metaDescription": "Aluguel de caçambas em Cachoeira Paulista, SP. Caçambas estacionárias para obras, pousadas e reformas em geral. Peça seu orçamento pelo WhatsApp.",
+      "intro": "Está realizando obras ou reformas em Cachoeira Paulista e precisa de caçamba de entulho? Solicite sua cotação pelo WhatsApp e receba orientações para posicionamento e descarte correto de resíduos inertes.",
+      "localContext": "Cachoeira Paulista atrai expressivo turismo religioso e conta com instituições de pesquisa e educação. As demandas de reforma abrangem desde hospedagens e pousadas no entorno da Canção Nova até reformas residenciais e propriedades rurais, onde a caçamba estacionária garante limpeza e organização das vias.",
+      "neighborhoods": [
+        "Centro",
+        "Jardim Europa",
+        "Vila Carmen",
+        "São João",
+        "Piteu",
+        "Parque Primavera",
+        "Embauzinho"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Lorena",
+          "slug": "aluguel-de-cacamba-lorena"
+        },
+        {
+          "name": "Canas",
+          "slug": "aluguel-de-cacamba-canas"
+        },
+        {
+          "name": "Cruzeiro",
+          "slug": "aluguel-de-cacamba-cruzeiro"
+        },
+        {
+          "name": "Piquete",
+          "slug": "aluguel-de-cacamba-piquete"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Centro, Jardim Europa, Vila Carmen, São João, Embauzinho e demais bairros de Cachoeira Paulista. Consulte a disponibilidade ao solicitar sua cotação.",
+      "localFaq": [
+        {
+          "question": "Como pedir caçamba em Cachoeira Paulista?",
+          "answer": "Basta nos enviar uma mensagem pelo WhatsApp detalhando o bairro, tipo de material gerado na obra e prazo desejado para entrega."
+        },
+        {
+          "question": "Qual o período de permanência da caçamba em Cachoeira Paulista?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "É possível agendar a retirada antes do prazo se a caçamba encher rápido?",
+          "answer": "Sim, caso a caçamba atinja a capacidade limite antes do término do prazo contratado, basta acionar a empresa responsável para combinar a retirada antecipada."
+        }
+      ]
+    },
+    {
+      "id": "tremembe",
+      "slug": "aluguel-de-cacamba-tremembe",
+      "isHome": false,
+      "name": "Tremembé",
+      "state": "SP",
+      "shortName": "Tremembé",
+      "region": "Médio Vale",
+      "seoTitle": "Aluguel de Caçamba em Tremembé, SP | Solicite Orçamento Online",
+      "metaDescription": "Aluguel de caçamba de entulho em Tremembé, SP. Atendimento para obras, condomínios fechados e reformas. Solicite pelo WhatsApp.",
+      "intro": "Procura aluguel de caçamba em Tremembé? Atendemos solicitações para condomínios horizontais, bairros centrais e chácaras em toda a estância turística. Peça seu orçamento sem complicações.",
+      "localContext": "Vizinha direta de Taubaté e Pindamonhangaba, Tremembé se destaca pelo forte crescimento de loteamentos fechados e condomínios de alto padrão ao longo da rodovia Floriano Rodrigues Pinheiro. A locação de caçambas na cidade é essencial para reformas domésticas e grandes construções residenciais.",
+      "neighborhoods": [
+        "Centro",
+        "Parque das Fontes",
+        "Jardim Santana",
+        "Flor do Vale",
+        "Alberto Gomes",
+        "Jardim dos Eucaliptos",
+        "Berizal"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Taubaté",
+          "slug": "aluguel-de-cacamba-taubate"
+        },
+        {
+          "name": "Pindamonhangaba",
+          "slug": "aluguel-de-cacamba-pindamonhangaba"
+        },
+        {
+          "name": "Caçapava",
+          "slug": "aluguel-de-cacamba-cacapava"
+        },
+        {
+          "name": "Santo Antônio do Pinhal",
+          "slug": "aluguel-de-cacamba-santo-antonio-do-pinhal"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Centro, Parque das Fontes, Jardim Santana, Flor do Vale e condomínios residenciais de Tremembé. Consulte a logística para o seu condomínio.",
+      "localFaq": [
+        {
+          "question": "Como funciona a entrega de caçamba em condomínios de Tremembé?",
+          "answer": "A entrega é combinada respeitando os horários de circulação de veículos de carga e as normas do condomínio para estacionamento e uso de calçado protetor no pavimento."
+        },
+        {
+          "question": "Qual o tempo de permanência da caçamba em Tremembé?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Posso alugar caçamba para limpeza de chácara em Tremembé?",
+          "answer": "Sim, caçambas são muito utilizadas para limpeza de terrenos, podas e remoção de entulhos em chácaras e sítios da região."
+        }
+      ]
+    },
+    {
+      "id": "santa-branca",
+      "slug": "aluguel-de-cacamba-santa-branca",
+      "isHome": false,
+      "name": "Santa Branca",
+      "state": "SP",
+      "shortName": "Santa Branca",
+      "region": "Alto Vale",
+      "seoTitle": "Aluguel de Caçamba em Santa Branca, SP | Cotação pelo WhatsApp",
+      "metaDescription": "Precisa alugar caçamba em Santa Branca, SP? Destine entulhos de obras, reformas e chácaras com praticidade. Solicite um orçamento.",
+      "intro": "Precisa alugar caçamba em Santa Branca para recolher entulhos de obra ou reforma? Solicite sua cotação rápida pelo WhatsApp e consulte a logística de entrega para o seu bairro ou propriedade.",
+      "localContext": "Conhecida como a Cidade Presépio no Alto Paraíba, Santa Branca possui perfil tranquilo com expressivo número de chácaras, sítios e casas de veraneio ao redor da represa. As demandas por caçambas envolvem reformas residenciais, limpezas de terrenos e manutenções periódicas de propriedades.",
+      "neighborhoods": [
+        "Centro",
+        "Jardim Costão",
+        "São Benedito",
+        "Toca do Coelho",
+        "Chácaras Reunidas",
+        "Monjolo"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Jacareí",
+          "slug": "aluguel-de-cacamba-jacarei"
+        },
+        {
+          "name": "São José dos Campos",
+          "slug": ""
+        },
+        {
+          "name": "Paraibuna",
+          "slug": "aluguel-de-cacamba-paraibuna"
+        },
+        {
+          "name": "Igaratá",
+          "slug": "aluguel-de-cacamba-igarata"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba em bairros como Centro, Jardim Costão, São Benedito, Toca do Coelho e áreas rurais de Santa Branca. Consulte a disponibilidade para seu acesso.",
+      "localFaq": [
+        {
+          "question": "Entregam caçamba em chácaras e estradas rurais de Santa Branca?",
+          "answer": "Sim, informe as condições da estrada e a localização no momento da cotação para que a empresa responsável avalie o acesso do caminhão."
+        },
+        {
+          "question": "Qual o prazo de permanência da caçamba em Santa Branca?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Posso utilizar a caçamba para limpeza de quintais e terrenos?",
+          "answer": "Sim, é muito comum para descarte de galhos, restos de alvenaria antiga e materiais volumosos de limpeza de propriedades."
+        }
+      ]
+    },
+    {
+      "id": "igarata",
+      "slug": "aluguel-de-cacamba-igarata",
+      "isHome": false,
+      "name": "Igaratá",
+      "state": "SP",
+      "shortName": "Igaratá",
+      "region": "Alto Vale",
+      "seoTitle": "Aluguel de Caçamba em Igaratá, SP | Locação de Caçambas de Entulho",
+      "metaDescription": "Aluguel de caçamba em Igaratá, SP para reformas, condomínios de represa e limpeza de terrenos. Orçamento rápido pelo WhatsApp.",
+      "intro": "Construindo ou reformando em Igaratá? Solicite orçamento de aluguel de caçamba estacionária para retirada de restos de obra, alvenaria e podas de terrenos na cidade das águas.",
+      "localContext": "Banhada pela Represa do Jaguari, Igaratá é marcada por condomínios náuticos, casas de campo e grande movimentação em reformas e ampliações de lazer. As vias sinuosas e acessos a condomínios fechados requerem planejamento logístico adequado no transporte e posicionamento das caçambas.",
+      "neighborhoods": [
+        "Centro",
+        "Vale das Roseiras",
+        "Água Espraiada",
+        "Boa Vista",
+        "Parque Alpino",
+        "Recanto dos Pássaros"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Jacareí",
+          "slug": "aluguel-de-cacamba-jacarei"
+        },
+        {
+          "name": "São José dos Campos",
+          "slug": ""
+        },
+        {
+          "name": "Santa Branca",
+          "slug": "aluguel-de-cacamba-santa-branca"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Centro, Vale das Roseiras, Água Espraiada, condomínios de represa e bairros de Igaratá. Consulte condições de frete e acesso.",
+      "localFaq": [
+        {
+          "question": "Como funciona a entrega em condomínios e marinas na represa de Igaratá?",
+          "answer": "A entrega é realizada com caminhão poliguindaste. Ao solicitar a cotação, mencione o nome do condomínio ou estrada de acesso para planejar o roteiro de entrega."
+        },
+        {
+          "question": "Qual o tempo de permanência da caçamba em Igaratá?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "O que fazer se a rua da obra for íngreme ou de terra?",
+          "answer": "Oriente o prestador sobre o terreno no orçamento para posicionar a caçamba em local firme e plano, garantindo a segurança do caminhão."
+        }
+      ]
+    },
+    {
+      "id": "paraibuna",
+      "slug": "aluguel-de-cacamba-paraibuna",
+      "isHome": false,
+      "name": "Paraibuna",
+      "state": "SP",
+      "shortName": "Paraibuna",
+      "region": "Alto Vale",
+      "seoTitle": "Aluguel de Caçamba em Paraibuna, SP | Solicite seu Orçamento",
+      "metaDescription": "Aluguel de caçamba de entulho em Paraibuna, SP. Remoção de sobras de obras, reformas no centro e chácaras da represa. Cotação rápida.",
+      "intro": "Precisa de caçamba de entulho em Paraibuna? Seja para revitalizar um imóvel, reformar uma chácara na represa ou conduzir obras comerciais nas proximidades da Rodovia dos Tamoios, cote pelo WhatsApp.",
+      "localContext": "Localizada na ligação estratégica entre o Vale do Paraíba e o Litoral Norte pela Rodovia dos Tamoios, Paraibuna conta com expressiva área rural e propriedades às margens da represa. O aluguel de caçamba auxilia tanto na manutenção urbana quanto na preservação ambiental de canteiros de obras próximos aos mananciais.",
+      "neighborhoods": [
+        "Centro",
+        "São Germano",
+        "Bela Vista",
+        "Alferes Bento",
+        "Cedro",
+        "Itapeva",
+        "Bairro do Comércio"
+      ],
+      "nearbyCities": [
+        {
+          "name": "São José dos Campos",
+          "slug": ""
+        },
+        {
+          "name": "Caraguatatuba",
+          "slug": "aluguel-de-cacamba-caraguatatuba"
+        },
+        {
+          "name": "Jambeiro",
+          "slug": "aluguel-de-cacamba-jambeiro"
+        },
+        {
+          "name": "Santa Branca",
+          "slug": "aluguel-de-cacamba-santa-branca"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Centro, São Germano, Bela Vista, Alferes Bento, Itapeva e áreas da represa em Paraibuna. Verifique disponibilidade para seu endereço.",
+      "localFaq": [
+        {
+          "question": "Como agendar aluguel de caçamba em Paraibuna?",
+          "answer": "Entre em contato via WhatsApp informando se a obra fica na área central, na rodovia ou em chácara na represa para receber valores e opções de caçambas."
+        },
+        {
+          "question": "Qual o período de uso da caçamba em Paraibuna?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Como deve ser feito o descarte para não agredir áreas de preservação?",
+          "answer": "Nunca deposite entulho próximo a nascentes ou represas; o uso de caçambas garante a coleta e transporte seguro para locais autorizados de triagem."
+        }
+      ]
+    },
+    {
+      "id": "jambeiro",
+      "slug": "aluguel-de-cacamba-jambeiro",
+      "isHome": false,
+      "name": "Jambeiro",
+      "state": "SP",
+      "shortName": "Jambeiro",
+      "region": "Médio Vale",
+      "seoTitle": "Aluguel de Caçamba em Jambeiro, SP | Cotação via WhatsApp",
+      "metaDescription": "Aluguel de caçambas em Jambeiro, SP para descarte de entulho em obras, sítios e reformas. Consulte valores e prazos pelo WhatsApp.",
+      "intro": "Buscando aluguel de caçamba em Jambeiro? Facilite a coleta de entulhos de pequenas construções, reformas e limpeza de terrenos na região central e rural da cidade.",
+      "localContext": "Jambeiro preserva a hospitalidade típica do interior paulista, com crescente atração de moradores de centros vizinhos como São José dos Campos e Caçapava que buscam chácaras e condomínios de lazer. O serviço de caçambas atende às necessidades de manutenção e descarte correto de resíduos inertes.",
+      "neighborhoods": [
+        "Centro",
+        "Canaã",
+        "Bairro dos Pires",
+        "Capivari",
+        "Santa Bárbara"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Caçapava",
+          "slug": "aluguel-de-cacamba-cacapava"
+        },
+        {
+          "name": "São José dos Campos",
+          "slug": ""
+        },
+        {
+          "name": "Paraibuna",
+          "slug": "aluguel-de-cacamba-paraibuna"
+        },
+        {
+          "name": "Taubaté",
+          "slug": "aluguel-de-cacamba-taubate"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Centro, Canaã, Bairro dos Pires, Capivari e propriedades rurais de Jambeiro. Consulte a rota de atendimento ao solicitar orçamento.",
+      "localFaq": [
+        {
+          "question": "Como solicitar caçamba para chácara em Jambeiro?",
+          "answer": "Informe a localização aproximada no WhatsApp para verificar a rota do caminhão poliguindaste e disponibilidade da caçamba."
+        },
+        {
+          "question": "Qual o prazo de permanência da caçamba em Jambeiro?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Quais materiais podem ser colocados na caçamba em Jambeiro?",
+          "answer": "Restos de construção, terra, tijolos, telhas velhas e pedriscos são os materiais mais comuns aceitos na locação padrão."
+        }
+      ]
+    },
+    {
+      "id": "campos-do-jordao",
+      "slug": "aluguel-de-cacamba-campos-do-jordao",
+      "isHome": false,
+      "name": "Campos do Jordão",
+      "state": "SP",
+      "shortName": "Campos",
+      "region": "Serra da Mantiqueira",
+      "seoTitle": "Aluguel de Caçamba em Campos do Jordão, SP | Orçamento de Caçamba",
+      "metaDescription": "Aluguel de caçamba em Campos do Jordão, SP para reformas de hotéis, pousadas e casas de serra. Remoção de entulhos com rapidez.",
+      "intro": "Fazendo obra ou reforma em Campos do Jordão? Alugue caçamba estacionária para retirada de resíduos de construção em hotéis, pousadas, restaurantes e chalés residenciais na Serra da Mantiqueira.",
+      "localContext": "Principal destino turístico de inverno do Brasil, Campos do Jordão possui relevo acidentado com colinas íngremes e regulamentações rigorosas de preservação paisagística e urbana. As caçambas devem ser alocadas com precisão em garagens e recuos para não comprometer vias estreitas nos bairros serranos.",
+      "neighborhoods": [
+        "Capivari",
+        "Vila Abernéssia",
+        "Vila Jaguaribe",
+        "Vila Inglesa",
+        "Alto do Capivari",
+        "Descansópolis",
+        "Vila Nadir",
+        "Recanto Feliz"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Santo Antônio do Pinhal",
+          "slug": "aluguel-de-cacamba-santo-antonio-do-pinhal"
+        },
+        {
+          "name": "São Bento do Sapucaí",
+          "slug": "aluguel-de-cacamba-sao-bento-do-sapucai"
+        },
+        {
+          "name": "Pindamonhangaba",
+          "slug": "aluguel-de-cacamba-pindamonhangaba"
+        },
+        {
+          "name": "Taubaté",
+          "slug": "aluguel-de-cacamba-taubate"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Capivari, Abernéssia, Jaguaribe, Vila Inglesa, Alto do Capivari e outros setores de Campos do Jordão. Consulte a logística para ruas íngremes.",
+      "localFaq": [
+        {
+          "question": "Como é feito o posicionamento de caçamba em ruas íngremes de Campos do Jordão?",
+          "answer": "O posicionamento requer calços e local nivelado para garantir total segurança durante a operação do caminhão poliguindaste."
+        },
+        {
+          "question": "Vocês atendem hotéis e pousadas no Capivari e Vila Inglesa?",
+          "answer": "Sim, intermediamos cotações para reformas de hospedagens comerciais e chalés de veraneio em toda a cidade."
+        },
+        {
+          "question": "Qual o prazo de permanência da caçamba em Campos do Jordão?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        }
+      ]
+    },
+    {
+      "id": "sao-bento-do-sapucai",
+      "slug": "aluguel-de-cacamba-sao-bento-do-sapucai",
+      "isHome": false,
+      "name": "São Bento do Sapucaí",
+      "state": "SP",
+      "shortName": "São Bento",
+      "region": "Serra da Mantiqueira",
+      "seoTitle": "Aluguel de Caçamba em São Bento do Sapucaí, SP | Solicite sua Caçamba",
+      "metaDescription": "Aluguel de caçamba de entulho em São Bento do Sapucaí, SP. Ideal para reformas de pousadas, chalés e obras residenciais na montanha.",
+      "intro": "Precisa de caçamba em São Bento do Sapucaí para descarte de materiais de construção? Cote online pelo WhatsApp e receba suporte para descartar entulho de chalés, pousadas e reformas rurais.",
+      "localContext": "Famosa pela imponência do Monumento Natural da Pedra do Baú, São Bento do Sapucaí combina turismo ecológico, gastronomia e refúgios de montanha. A atividade da construção civil na região é voltada para arquitetura rústica e pousadas, exigindo cuidados no transporte de detritos em estradas de serra.",
+      "neighborhoods": [
+        "Centro",
+        "Paiol Grande",
+        "Baú do Centro",
+        "Cantagalo",
+        "Quilombo",
+        "Serrano"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Campos do Jordão",
+          "slug": "aluguel-de-cacamba-campos-do-jordao"
+        },
+        {
+          "name": "Santo Antônio do Pinhal",
+          "slug": "aluguel-de-cacamba-santo-antonio-do-pinhal"
+        },
+        {
+          "name": "Pindamonhangaba",
+          "slug": "aluguel-de-cacamba-pindamonhangaba"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Centro, Paiol Grande, Baú do Centro, Cantagalo, Quilombo e estradas rurais de São Bento do Sapucaí. Consulte rotas e prazos.",
+      "localFaq": [
+        {
+          "question": "Entregam caçamba na estrada da Pedra do Baú e Paiol Grande?",
+          "answer": "Sim, informe a localização e o ponto de referência ao cotar para verificar o acesso com o prestador local."
+        },
+        {
+          "question": "Qual o período de uso da caçamba em São Bento do Sapucaí?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Como funciona para descarte de restos de poda e madeira de chalé?",
+          "answer": "Sobras de madeira e limpeza vegetal podem ser descartadas em caçambas destinadas a esse perfil de material, mediante combinação prévia."
+        }
+      ]
+    },
+    {
+      "id": "santo-antonio-do-pinhal",
+      "slug": "aluguel-de-cacamba-santo-antonio-do-pinhal",
+      "isHome": false,
+      "name": "Santo Antônio do Pinhal",
+      "state": "SP",
+      "shortName": "Pinhal",
+      "region": "Serra da Mantiqueira",
+      "seoTitle": "Aluguel de Caçamba em Santo Antônio do Pinhal, SP | Cotação Rápida",
+      "metaDescription": "Aluguel de caçamba em Santo Antônio do Pinhal, SP. Remoção de entulhos para obras residenciais, pousadas e reformas serranas.",
+      "intro": "Procurando caçamba para alugar em Santo Antônio do Pinhal? Organize sua obra de reforma ou construção civil em chalés, restaurantes e residências da serra solicitando orçamento pelo WhatsApp.",
+      "localContext": "Encravada na Mantiqueira, Santo Antônio do Pinhal é um polo de charme com intensa procura para construções de casas de campo e pousadas ecológicas. O uso de caçambas estacionárias é indispensável para a manutenção da limpeza das vias rurais e do centro da cidade.",
+      "neighborhoods": [
+        "Centro",
+        "Jardim Pinhal",
+        "Santa Cruz",
+        "Renascença",
+        "Cassununga",
+        "Rio Preto"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Campos do Jordão",
+          "slug": "aluguel-de-cacamba-campos-do-jordao"
+        },
+        {
+          "name": "Tremembé",
+          "slug": "aluguel-de-cacamba-tremembe"
+        },
+        {
+          "name": "São Bento do Sapucaí",
+          "slug": "aluguel-de-cacamba-sao-bento-do-sapucai"
+        },
+        {
+          "name": "Taubaté",
+          "slug": "aluguel-de-cacamba-taubate"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Centro, Jardim Pinhal, Santa Cruz, Renascença, Rio Preto e sítios em Santo Antônio do Pinhal. Consulte condições pelo WhatsApp.",
+      "localFaq": [
+        {
+          "question": "Como alugar caçamba para reforma de pousada em Santo Antônio do Pinhal?",
+          "answer": "Envie sua mensagem indicando o endereço e o tipo de reforma; orientamos sobre capacidades e agendamento da entrega."
+        },
+        {
+          "question": "Qual o prazo de permanência da caçamba em Santo Antônio do Pinhal?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "A caçamba pode ficar estacionada no gramado ou terra?",
+          "answer": "Recomenda-se piso firme ou o uso de pranchas para apoiar os pés da caçamba em solos macios de áreas rurais."
+        }
+      ]
+    },
+    {
+      "id": "caraguatatuba",
+      "slug": "aluguel-de-cacamba-caraguatatuba",
+      "isHome": false,
+      "name": "Caraguatatuba",
+      "state": "SP",
+      "shortName": "Caraguá",
+      "region": "Litoral Norte",
+      "seoTitle": "Aluguel de Caçamba em Caraguatatuba, SP | Cotação de Entulho na Praia",
+      "metaDescription": "Aluguel de caçamba de entulho em Caraguatatuba, SP. Atendimento para reformas de casas de praia, obras prediais e comércios no Litoral Norte.",
+      "intro": "Construindo ou reformando em Caraguatatuba? Solicite aluguel de caçamba estacionária para descarte de restos de alvenaria, pisos e entulhos de reformas residenciais ou comerciais nas praias de Caraguá.",
+      "localContext": "Capital administrativa e comercial do Litoral Norte de São Paulo, Caraguatatuba conta com grande extensão de orla e intensa atividade na construção civil, impulsionada pela duplicação dos acessos da Serra do Mar e a valorização imobiliária litorânea. O aluguel de caçambas atende tanto reformas de veraneio quanto empreendimentos imobiliários de grande porte.",
+      "neighborhoods": [
+        "Centro",
+        "Indaiá",
+        "Martim de Sá",
+        "Praia das Palmeiras",
+        "Porto Novo",
+        "Massaguaçu",
+        "Tabatinga",
+        "Tinga",
+        "Barranco Alto"
+      ],
+      "nearbyCities": [
+        {
+          "name": "São Sebastião",
+          "slug": "aluguel-de-cacamba-sao-sebastiao"
+        },
+        {
+          "name": "Ubatuba",
+          "slug": "aluguel-de-cacamba-ubatuba"
+        },
+        {
+          "name": "Paraibuna",
+          "slug": "aluguel-de-cacamba-paraibuna"
+        },
+        {
+          "name": "Ilhabela",
+          "slug": "aluguel-de-cacamba-ilhabela"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Indaiá, Martim de Sá, Massaguaçu, Tabatinga, Porto Novo, Centro e demais bairros de Caraguatatuba. Consulte a disponibilidade para sua praia.",
+      "localFaq": [
+        {
+          "question": "Como funciona o aluguel de caçamba para casas de veraneio em Caraguá?",
+          "answer": "Você pode agendar previamente a data de colocação da caçamba para coincidir com a presença de pedreiros ou da equipe de reforma no imóvel."
+        },
+        {
+          "question": "Qual o período de uso da caçamba em Caraguatatuba?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Pode colocar areia e restos de demolição na mesma caçamba?",
+          "answer": "Sim, resíduos inertes de alvenaria, areia e pedrisco podem ser descartados conjuntamente na caçamba padrão."
+        }
+      ]
+    },
+    {
+      "id": "ubatuba",
+      "slug": "aluguel-de-cacamba-ubatuba",
+      "isHome": false,
+      "name": "Ubatuba",
+      "state": "SP",
+      "shortName": "Ubatuba",
+      "region": "Litoral Norte",
+      "seoTitle": "Aluguel de Caçamba em Ubatuba, SP | Locação de Caçambas para Entulho",
+      "metaDescription": "Aluguel de caçamba em Ubatuba, SP para obras, reformas em condomínios de praia e limpezas de terrenos. Solicite orçamento pelo WhatsApp.",
+      "intro": "Reformando casa de praia ou imóvel comercial em Ubatuba? Peça cotação de caçamba de entulho pelo WhatsApp e mantenha sua obra limpa e protegida contra o acúmulo de resíduos nas proximidades das praias.",
+      "localContext": "Com mais de cem praias e vasta cobertura de Mata Atlântica preservada, Ubatuba possui rigorosas regras ambientais municipais. A correta acomodação de entulhos em caçambas estacionárias é vital para evitar assoreamento de cursos d'água e preservar as vias urbanas e litorâneas durante reformas.",
+      "neighborhoods": [
+        "Centro",
+        "Itaguá",
+        "Perequê-Açu",
+        "Praia Grande",
+        "Toninhas",
+        "Enseada",
+        "Maranduba",
+        "Ubatumirim",
+        "Taquaral"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Caraguatatuba",
+          "slug": "aluguel-de-cacamba-caraguatatuba"
+        },
+        {
+          "name": "São Sebastião",
+          "slug": "aluguel-de-cacamba-sao-sebastiao"
+        },
+        {
+          "name": "Ilhabela",
+          "slug": "aluguel-de-cacamba-ilhabela"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Itaguá, Praia Grande, Toninhas, Enseada, Maranduba, Perequê-Açu e Centro de Ubatuba. Verifique a entrega para praias do norte e sul.",
+      "localFaq": [
+        {
+          "question": "Entregam caçambas em praias mais afastadas como Maranduba ou Ubatumirim?",
+          "answer": "Sim, informe a praia e a rua ao solicitar cotação para calcular as rotas de entrega e prazos disponíveis."
+        },
+        {
+          "question": "Qual o prazo de permanência da caçamba em Ubatuba?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "O que diz a legislação ambiental de Ubatuba sobre descarte de entulho?",
+          "answer": "O descarte irregular em terrenos baldios ou áreas de preservação é proibido; caçambas estacionárias legalizadas asseguram o transporte a locais adequados de triagem."
+        }
+      ]
+    },
+    {
+      "id": "sao-sebastiao",
+      "slug": "aluguel-de-cacamba-sao-sebastiao",
+      "isHome": false,
+      "name": "São Sebastião",
+      "state": "SP",
+      "shortName": "São Sebastião",
+      "region": "Litoral Norte",
+      "seoTitle": "Aluguel de Caçamba em São Sebastião, SP | Orçamento de Entulho",
+      "metaDescription": "Aluguel de caçamba em São Sebastião, SP. Atendimento da Costa Sul à Costa Norte: Maresias, Juquehy, Boiçucanga e Centro. Peça via WhatsApp.",
+      "intro": "Precisa alugar caçamba em São Sebastião? Da Costa Sul (Maresias, Juquehy, Camburi) ao Centro histórico e Costa Norte, solicite cotação ágil para descartar sobras de construção, reformas e manutenção de imóveis.",
+      "localContext": "Com extenso litoral entrecortado por praias badaladas e condomínios de alto padrão, São Sebastião tem forte sazonalidade de obras no período de baixa temporada para preparar os imóveis de temporada. A logística de entrega de caçambas deve respeitar o perfil de cada praia ao longo da rodovia Rio-Santos (SP-055).",
+      "neighborhoods": [
+        "Centro",
+        "Maresias",
+        "Boiçucanga",
+        "Juquehy",
+        "Camburi",
+        "Barra do Sahy",
+        "Boracéia",
+        "Enseada",
+        "São Francisco"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Ilhabela",
+          "slug": "aluguel-de-cacamba-ilhabela"
+        },
+        {
+          "name": "Caraguatatuba",
+          "slug": "aluguel-de-cacamba-caraguatatuba"
+        },
+        {
+          "name": "Ubatuba",
+          "slug": "aluguel-de-cacamba-ubatuba"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba em Maresias, Juquehy, Boiçucanga, Camburi, Barra do Sahy, Centro e São Francisco. Consulte a disponibilidade para sua localidade.",
+      "localFaq": [
+        {
+          "question": "Atendem condomínios fechados em Maresias, Juquehy e Camburi?",
+          "answer": "Sim, os prestadores atendem condomínios da Costa Sul. Recomenda-se comunicar a portaria e verificar as regras de horários para veículos pesados."
+        },
+        {
+          "question": "Qual o período de permanência da caçamba em São Sebastião?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Como funciona a entrega em vias estreitas na Costa Sul?",
+          "answer": "O motorista do caminhão poliguindaste avalia o melhor local para não bloquear a passagem de vizinhos ou veículos de emergência."
+        }
+      ]
+    },
+    {
+      "id": "ilhabela",
+      "slug": "aluguel-de-cacamba-ilhabela",
+      "isHome": false,
+      "name": "Ilhabela",
+      "state": "SP",
+      "shortName": "Ilhabela",
+      "region": "Litoral Norte",
+      "seoTitle": "Aluguel de Caçamba em Ilhabela, SP | Cotação de Caçambas na Ilha",
+      "metaDescription": "Aluguel de caçamba em Ilhabela, SP para obras e reformas residenciais. Consulte logística de descarte e condições via WhatsApp.",
+      "intro": "Realizando reforma ou construção em Ilhabela? Consulte a disponibilidade de locação de caçambas estacionárias para o arquipélago e solicite seu orçamento de forma descomplicada.",
+      "localContext": "Município arquipélago único no litoral paulista, Ilhabela conta com restrições severas de trânsito de cargas pesadas e preservação ambiental integral em seu parque estadual. A operação com caçambas exige programação antecipada e alinhamento com as normas locais de circulação viária.",
+      "neighborhoods": [
+        "Vila (Centro)",
+        "Perequê",
+        "Barra Velha",
+        "Água Branca",
+        "Itaquanduba",
+        "Ilhote",
+        "Cocaia",
+        "Feiticeira"
+      ],
+      "nearbyCities": [
+        {
+          "name": "São Sebastião",
+          "slug": "aluguel-de-cacamba-sao-sebastiao"
+        },
+        {
+          "name": "Caraguatatuba",
+          "slug": "aluguel-de-cacamba-caraguatatuba"
+        },
+        {
+          "name": "Ubatuba",
+          "slug": "aluguel-de-cacamba-ubatuba"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba na Vila, Perequê, Barra Velha, Itaquanduba, Feiticeira e demais regiões acessíveis de Ilhabela. Verifique a viabilidade para seu imóvel.",
+      "localFaq": [
+        {
+          "question": "Como funciona o agendamento de caçamba em Ilhabela?",
+          "answer": "Devido à logística insular, o agendamento deve ser feito com antecedência pelo WhatsApp, especificando o bairro e as condições de entrada no imóvel."
+        },
+        {
+          "question": "Qual o prazo de permanência da caçamba em Ilhabela?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "A caçamba pode ser colocada na beira de rua em Ilhabela?",
+          "answer": "Em ruas estreitas de Ilhabela, o posicionamento deve ser realizado preferencialmente dentro do terreno da obra para evitar interrupções no tráfego local."
+        }
+      ]
+    },
+    {
+      "id": "roseira",
+      "slug": "aluguel-de-cacamba-roseira",
+      "isHome": false,
+      "name": "Roseira",
+      "state": "SP",
+      "shortName": "Roseira",
+      "region": "Fundo do Vale",
+      "seoTitle": "Aluguel de Caçamba em Roseira, SP | Orçamento de Entulho",
+      "metaDescription": "Aluguel de caçamba em Roseira, SP para descarte de entulho em reformas, obras e limpezas. Solicite cotação rápida pelo WhatsApp.",
+      "intro": "Procurando aluguel de caçamba em Roseira? Intermediamos cotações para obras residenciais, pequenos reparos e reformas comerciais em todos os bairros do município.",
+      "localContext": "Situada entre Pindamonhangaba e Aparecida ao longo da Via Dutra, Roseira possui perfil residencial acolhedor com chácaras e pequenas empresas no entorno rodoviário. O aluguel de caçamba garante que o entulho de reformas seja retirado com pontualidade e respeito à legislação.",
+      "neighborhoods": [
+        "Centro",
+        "Barretinho",
+        "Vila Nova",
+        "Pedro Leme",
+        "Jardim Primavera"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Aparecida",
+          "slug": "aluguel-de-cacamba-aparecida"
+        },
+        {
+          "name": "Pindamonhangaba",
+          "slug": "aluguel-de-cacamba-pindamonhangaba"
+        },
+        {
+          "name": "Potim",
+          "slug": "aluguel-de-cacamba-potim"
+        },
+        {
+          "name": "Guaratinguetá",
+          "slug": "aluguel-de-cacamba-guaratingueta"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Centro, Barretinho, Vila Nova, Pedro Leme e Jardim Primavera em Roseira. Consulte condições no WhatsApp.",
+      "localFaq": [
+        {
+          "question": "Como alugar caçamba em Roseira?",
+          "answer": "Envie uma mensagem informando seu endereço em Roseira e a finalidade da caçamba (obra, limpeza ou reforma) para receber propostas e prazos."
+        },
+        {
+          "question": "Qual o período de permanência da caçamba em Roseira?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Quais materiais posso descartar na caçamba em Roseira?",
+          "answer": "Tijolos, restos de alvenaria, pisos, argamassa, madeiras e restos de poda são comumente aceitos."
+        }
+      ]
+    },
+    {
+      "id": "potim",
+      "slug": "aluguel-de-cacamba-potim",
+      "isHome": false,
+      "name": "Potim",
+      "state": "SP",
+      "shortName": "Potim",
+      "region": "Fundo do Vale",
+      "seoTitle": "Aluguel de Caçamba em Potim, SP | Solicite sua Caçamba",
+      "metaDescription": "Precisa alugar caçamba em Potim, SP? Cotação rápida via WhatsApp para obras, reformas e descarte de restos de construção civil.",
+      "intro": "Precisa de caçamba estacionária em Potim para retirar entulhos de reforma ou construção? Envie sua solicitação pelo WhatsApp e confira a viabilidade e prazos para o seu endereço.",
+      "localContext": "Ligada a Aparecida e Guaratinguetá pela ponte sobre o Rio Paraíba do Sul, a cidade de Potim vive expansão habitacional com constantes obras e reformas em bairros populares e novas zonas residenciais, demandando recolhimento ordenado de resíduos.",
+      "neighborhoods": [
+        "Centro",
+        "Chácara Tropical",
+        "Jardim Alvorada",
+        "Frei Galvão",
+        "Vila São Geraldo"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Aparecida",
+          "slug": "aluguel-de-cacamba-aparecida"
+        },
+        {
+          "name": "Guaratinguetá",
+          "slug": "aluguel-de-cacamba-guaratingueta"
+        },
+        {
+          "name": "Roseira",
+          "slug": "aluguel-de-cacamba-roseira"
+        },
+        {
+          "name": "Lorena",
+          "slug": "aluguel-de-cacamba-lorena"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Centro, Chácara Tropical, Jardim Alvorada, Frei Galvão e Vila São Geraldo em Potim. Verifique prazos de entrega.",
+      "localFaq": [
+        {
+          "question": "Como solicitar caçamba em Potim?",
+          "answer": "Clique no botão de atendimento do WhatsApp informando o bairro em Potim e o volume previsto para receber o orçamento."
+        },
+        {
+          "question": "Qual o prazo de uso da caçamba em Potim?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Posso colocar terra de escavação na caçamba em Potim?",
+          "answer": "Sim, terra e restos de fundação são resíduos inertes aceitos na caçamba para obras."
+        }
+      ]
+    },
+    {
+      "id": "piquete",
+      "slug": "aluguel-de-cacamba-piquete",
+      "isHome": false,
+      "name": "Piquete",
+      "state": "SP",
+      "shortName": "Piquete",
+      "region": "Fundo do Vale",
+      "seoTitle": "Aluguel de Caçamba em Piquete, SP | Orçamento sem Compromisso",
+      "metaDescription": "Aluguel de caçamba de entulho em Piquete, SP para reformas residenciais e obras. Peça sua cotação rápida pelo WhatsApp.",
+      "intro": "Buscando aluguel de caçamba em Piquete? Solicite uma cotação pelo WhatsApp para descarte seguro de restos de alvenaria, pisos, terra e entulhos de construções na cidade paisagem.",
+      "localContext": "Localizada no sopé da Serra da Mantiqueira e cortada pela rodovia Lorena-Itajubá (BR-459), Piquete conta com relevo montanhoso e tradição fabril. Reformas residenciais e manutenções prediais no município necessitam de caçambas bem posicionadas para segurança do trânsito local.",
+      "neighborhoods": [
+        "Centro",
+        "Vila Celeste",
+        "Vila Esperança",
+        "Santa Rita",
+        "Bairro da Estrela"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Lorena",
+          "slug": "aluguel-de-cacamba-lorena"
+        },
+        {
+          "name": "Cruzeiro",
+          "slug": "aluguel-de-cacamba-cruzeiro"
+        },
+        {
+          "name": "Cachoeira Paulista",
+          "slug": "aluguel-de-cacamba-cachoeira-paulista"
+        },
+        {
+          "name": "Canas",
+          "slug": "aluguel-de-cacamba-canas"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Centro, Vila Celeste, Vila Esperança, Santa Rita e Bairro da Estrela em Piquete. Consulte rotas e valores.",
+      "localFaq": [
+        {
+          "question": "Como funciona a locação de caçamba em Piquete?",
+          "answer": "Você solicita o orçamento informando a localização da obra em Piquete; a empresa combina a data de colocação e recolhimento dos resíduos."
+        },
+        {
+          "question": "Qual o prazo de permanência da caçamba em Piquete?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Como posicionar a caçamba em ruas com declive em Piquete?",
+          "answer": "O motorista do poliguindaste orienta sobre o ponto mais plano e estável da via ou entrada do imóvel para estacionar a caçamba com segurança."
+        }
+      ]
+    },
+    {
+      "id": "canas",
+      "slug": "aluguel-de-cacamba-canas",
+      "isHome": false,
+      "name": "Canas",
+      "state": "SP",
+      "shortName": "Canas",
+      "region": "Fundo do Vale",
+      "seoTitle": "Aluguel de Caçamba em Canas, SP | Cotação pelo WhatsApp",
+      "metaDescription": "Aluguel de caçamba em Canas, SP para obras, reformas e limpeza de terrenos. Solicite orçamento de forma simples e rápida.",
+      "intro": "Realizando obra ou reforma em Canas e precisa descartar entulho? Peça seu orçamento pelo WhatsApp e consulte a logística de entrega de caçambas estacionárias no município.",
+      "localContext": "Jovem município posicionado entre Lorena e Cachoeira Paulista, Canas apresenta constante desenvolvimento residencial e rural. A locação de caçamba proporciona organização na coleta de sobras de reformas e demolições.",
+      "neighborhoods": [
+        "Centro",
+        "Caninhas",
+        "Bairro dos Abreus",
+        "Vila São João"
+      ],
+      "nearbyCities": [
+        {
+          "name": "Lorena",
+          "slug": "aluguel-de-cacamba-lorena"
+        },
+        {
+          "name": "Cachoeira Paulista",
+          "slug": "aluguel-de-cacamba-cachoeira-paulista"
+        },
+        {
+          "name": "Piquete",
+          "slug": "aluguel-de-cacamba-piquete"
+        },
+        {
+          "name": "Cruzeiro",
+          "slug": "aluguel-de-cacamba-cruzeiro"
+        }
+      ],
+      "serviceAreaText": "Atendimento para solicitações de aluguel de caçamba no Centro, Caninhas, Bairro dos Abreus e Vila São João em Canas. Consulte disponibilidade para o seu endereço.",
+      "localFaq": [
+        {
+          "question": "Como pedir caçamba em Canas?",
+          "answer": "Entre em contato via WhatsApp informando o local em Canas onde a caçamba será colocada e o tipo aproximado de entulho."
+        },
+        {
+          "question": "Qual o prazo de uso da caçamba em Canas?",
+          "answer": "O período de permanência da caçamba pode variar conforme a empresa responsável pelo atendimento, disponibilidade e condições definidas no orçamento."
+        },
+        {
+          "question": "Quais resíduos de obras são aceitos em Canas?",
+          "answer": "Concreto, tijolo, argamassa, madeiras, sobras de reforma e resíduos de limpeza de terrenos."
+        }
+      ]
+    }
+  ],
+  "allValeCities": [
+    {
+      "name": "São José dos Campos",
+      "slug": "",
+      "region": "Médio Vale"
+    },
+    {
+      "name": "Taubaté",
+      "slug": "aluguel-de-cacamba-taubate",
+      "region": "Médio Vale"
+    },
+    {
+      "name": "Jacareí",
+      "slug": "aluguel-de-cacamba-jacarei",
+      "region": "Médio Vale"
+    },
+    {
+      "name": "Pindamonhangaba",
+      "slug": "aluguel-de-cacamba-pindamonhangaba",
+      "region": "Médio Vale"
+    },
+    {
+      "name": "Caçapava",
+      "slug": "aluguel-de-cacamba-cacapava",
+      "region": "Médio Vale"
+    },
+    {
+      "name": "Guaratinguetá",
+      "slug": "aluguel-de-cacamba-guaratingueta",
+      "region": "Fundo do Vale"
+    },
+    {
+      "name": "Lorena",
+      "slug": "aluguel-de-cacamba-lorena",
+      "region": "Fundo do Vale"
+    },
+    {
+      "name": "Aparecida",
+      "slug": "aluguel-de-cacamba-aparecida",
+      "region": "Fundo do Vale"
+    },
+    {
+      "name": "Cruzeiro",
+      "slug": "aluguel-de-cacamba-cruzeiro",
+      "region": "Fundo do Vale"
+    },
+    {
+      "name": "Cachoeira Paulista",
+      "slug": "aluguel-de-cacamba-cachoeira-paulista",
+      "region": "Fundo do Vale"
+    },
+    {
+      "name": "Tremembé",
+      "slug": "aluguel-de-cacamba-tremembe",
+      "region": "Médio Vale"
+    },
+    {
+      "name": "Santa Branca",
+      "slug": "aluguel-de-cacamba-santa-branca",
+      "region": "Alto Vale"
+    },
+    {
+      "name": "Igaratá",
+      "slug": "aluguel-de-cacamba-igarata",
+      "region": "Alto Vale"
+    },
+    {
+      "name": "Paraibuna",
+      "slug": "aluguel-de-cacamba-paraibuna",
+      "region": "Alto Vale"
+    },
+    {
+      "name": "Jambeiro",
+      "slug": "aluguel-de-cacamba-jambeiro",
+      "region": "Médio Vale"
+    },
+    {
+      "name": "Campos do Jordão",
+      "slug": "aluguel-de-cacamba-campos-do-jordao",
+      "region": "Serra da Mantiqueira"
+    },
+    {
+      "name": "São Bento do Sapucaí",
+      "slug": "aluguel-de-cacamba-sao-bento-do-sapucai",
+      "region": "Serra da Mantiqueira"
+    },
+    {
+      "name": "Santo Antônio do Pinhal",
+      "slug": "aluguel-de-cacamba-santo-antonio-do-pinhal",
+      "region": "Serra da Mantiqueira"
+    },
+    {
+      "name": "Caraguatatuba",
+      "slug": "aluguel-de-cacamba-caraguatatuba",
+      "region": "Litoral Norte"
+    },
+    {
+      "name": "Ubatuba",
+      "slug": "aluguel-de-cacamba-ubatuba",
+      "region": "Litoral Norte"
+    },
+    {
+      "name": "São Sebastião",
+      "slug": "aluguel-de-cacamba-sao-sebastiao",
+      "region": "Litoral Norte"
+    },
+    {
+      "name": "Ilhabela",
+      "slug": "aluguel-de-cacamba-ilhabela",
+      "region": "Litoral Norte"
+    },
+    {
+      "name": "Roseira",
+      "slug": "aluguel-de-cacamba-roseira",
+      "region": "Fundo do Vale"
+    },
+    {
+      "name": "Potim",
+      "slug": "aluguel-de-cacamba-potim",
+      "region": "Fundo do Vale"
+    },
+    {
+      "name": "Piquete",
+      "slug": "aluguel-de-cacamba-piquete",
+      "region": "Fundo do Vale"
+    },
+    {
+      "name": "Canas",
+      "slug": "aluguel-de-cacamba-canas",
+      "region": "Fundo do Vale"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 72" fill="none">
+  <!-- Ícone da Caçamba -->
+  <g transform="translate(0, 6)">
+    <!-- Corpo da caçamba (trapézio) -->
+    <path d="M8 56 L16 16 L52 16 L60 56 Z" fill="#d97706" stroke="#b45309" stroke-width="1.5"/>
+    <!-- Borda superior reforçada -->
+    <rect x="13" y="14" width="42" height="5" rx="1" fill="#b45309"/>
+    <!-- Textura/linhas internas -->
+    <line x1="22" y1="20" x2="18" y2="52" stroke="#b45309" stroke-width="1" opacity="0.4"/>
+    <line x1="34" y1="20" x2="34" y2="52" stroke="#b45309" stroke-width="1" opacity="0.4"/>
+    <line x1="46" y1="20" x2="50" y2="52" stroke="#b45309" stroke-width="1" opacity="0.4"/>
+    <!-- Base -->
+    <rect x="5" y="54" width="58" height="5" rx="1.5" fill="#92400e"/>
+  </g>
+  <!-- Texto: Caçambas Vale -->
+  <text x="76" y="38" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="800" fill="#1a365d" letter-spacing="-0.5">Caçambas Vale</text>
+  <!-- Subtítulo -->
+  <text x="76" y="56" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="500" fill="#64748b" letter-spacing="2.5" text-transform="uppercase">ALUGUEL DE CAÇAMBAS</text>
+</svg>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alugueldecacambavale.com.br/sitemap.xml
