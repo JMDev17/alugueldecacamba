@@ -153,10 +153,10 @@ function generatePageHtml(city, allCities) {
     ? `Intermediamos cotações de caçambas estacionárias nas principais cidades do Vale do Paraíba e Litoral Norte. Clique na sua cidade para consultar informações locais:`
     : `Também consulte atendimento em ${(city.nearbyCities || []).map(nc => `<a href="${nc.slug === '' ? '/' : `/${nc.slug}/`}"><strong>${nc.name}</strong></a>`).join(', ')} e em outras cidades do Vale do Paraíba.`;
 
-  // Links do menu
-  const linkComoFunciona = isHome ? '#como-funciona' : '/#como-funciona';
-  const linkTiposCacamba = isHome ? '#tipos-cacamba' : '/#tipos-cacamba';
-  const linkFaq = isHome ? '#faq' : '/#faq';
+  // Links do menu (âncoras sempre locais: cada página de cidade tem suas próprias seções)
+  const linkComoFunciona = '#como-funciona';
+  const linkTiposCacamba = '#tipos-cacamba';
+  const linkFaq = '#faq';
 
   return `<!DOCTYPE html>
 <html lang="pt-BR">
