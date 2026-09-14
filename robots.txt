@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alugueldecacambavale.com.br/sitemap.xml
+Sitemap: https://alugueldecacambavp.com.br/sitemap.xml

@@ -2,9 +2,14 @@
 RewriteEngine On
 RewriteBase /
 
-# Força HTTPS (opcional dependendo do servidor)
-# RewriteCond %{HTTPS} off
-# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# Consolidação de domínio: força HTTPS e remove "www" em um único salto (sem cadeias de redirect)
+# 1) Remove "www." (independente do esquema) e já entrega em HTTPS
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^ https://%1%{REQUEST_URI} [L,R=301]
+
+# 2) Sem "www": força HTTPS quando a requisição chega em HTTP
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # Redireciona index.html para a raiz ou diretório limpo
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/

@@ -17,8 +17,8 @@ function renderBreadcrumbs(items) {
         ${items.map((item, idx) => `
           <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
             ${idx === items.length - 1 
-              ? `<span itemprop="name">${item.name}</span>` 
-              : `<a itemprop="item" href="${item.url}"><span itemprop="name">${item.name}</span></a>`}
+              ? `<span itemprop="name">${item.name}</span>`
+              : `<a itemprop="item" href="${config.domain}${item.url}"><span itemprop="name">${item.name}</span></a>`}
             <meta itemprop="position" content="${idx + 1}" />
           </li>
         `).join('')}
